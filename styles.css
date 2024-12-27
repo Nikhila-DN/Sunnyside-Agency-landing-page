@@ -299,12 +299,12 @@ body {
    text-align: center;
    color: var(--white);
    text-transform: uppercase;
-   margin: 10rem 0 6rem; }
+   margin: 10rem 0 2rem; }
 
    @media screen and (min-width: 768px) {
       .banner > .container > .title-banner {
          font-size: 6rem;
-         margin: 14rem 0 10rem;
+         margin: 14rem 0 5rem;
       }
 }
 
